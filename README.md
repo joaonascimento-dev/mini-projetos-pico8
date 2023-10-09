@@ -1,4 +1,7 @@
-# Mini Projetos de Jogos PICO8
+# Mini Projetos de Jogos PICO-8
 
-PICO8 é um console de jogos fictício, com uma ferramenta interna de desenvolvimento o torna muito divertido de se criar projetos mais simples.
+PICO-8 é um console de jogos fictício, com uma ferramenta interna de desenvolvimento o torna muito divertido de se criar projetos mais simples.
 Aqui estão compilados alguns de meus projetos feitos com o único intuito de aprender e me familiarizar com o desenvolvimento para este console incrível.
+<br>
+<a href="https://www.lexaloffle.com/pico-8.php" target="_blank">PICO-8 Fantasy Console</a>
+<a href="https://www.lexaloffle.com/bbs/?uid=82650" target="_blank">Nasc - Lexaloffle</a>
